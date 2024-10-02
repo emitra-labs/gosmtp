@@ -1,4 +1,4 @@
-module github.com/kaptika/gosmtp
+module github.com/emitra-labs/gosmtp
 
 go 1.23.1
 
